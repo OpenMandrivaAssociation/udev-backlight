@@ -1,6 +1,6 @@
 Name: udev-backlight
 Version: 0.1
-Release: 1
+Release: 2
 Summary: Udev rules for setting permissions on backlight devices
 URL: https://openmandriva.org/
 License: GPLv3
